@@ -1,9 +1,52 @@
-color: red;hjjhjhjhjh
-jhhjjh
-ghhjhhg
-hg
-ghh
-j
-ghj
-hg
-gh
+body {
+margin: 0;
+font-weight: 400;
+background-color: #FFFFFF;
+font-family: Raleway, sans-serif;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.circle-box {
+  width: 240px;
+  height: 240px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+ /* Включаем сетку Flexbox 
+  display: flex;
+   Выравниваем элемент по горизонтали 
+  justify-content: center;
+   Выравниваем элемент по вертикали 
+  align-items: center;*/
