@@ -1,1 +1,1 @@
-# ono-tebe-nado-fd
+git@github.com:frkrCode/ono-tebe-nado-fd.git
