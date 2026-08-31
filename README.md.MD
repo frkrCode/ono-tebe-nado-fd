@@ -1,1 +1,1 @@
-git@github.com:frkrCode/ono-tebe-nado-fd.git
+https://github.com/frkrCode/ono-tebe-nado-fd
